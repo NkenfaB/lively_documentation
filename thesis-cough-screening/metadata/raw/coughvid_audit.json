@@ -1,0 +1,260 @@
+{
+  "dataset_name": "coughvid",
+  "dataset_dir": "/workspace/lively/data/raw/coughvid",
+  "audio_file_count": 1565,
+  "metadata_candidate_count": 27551,
+  "metadata_candidates": [
+    "/workspace/lively/data/raw/coughvid/public_dataset/00014dcc-0f06-4c27-8c7b-737b18a2cf4c.json",
+    "/workspace/lively/data/raw/coughvid/public_dataset/00039425-7f3a-42aa-ac13-834aaa2b6b92.json",
+    "/workspace/lively/data/raw/coughvid/public_dataset/0007c6f1-5441-40e6-9aaf-a761d8f2da3b.json",
+    "/workspace/lively/data/raw/coughvid/public_dataset/0009eb28-d8be-4dc1-92bb-907e53bc5c7a.json",
+    "/workspace/lively/data/raw/coughvid/public_dataset/0012c608-33d0-4ef7-bde3-75a0b1a0024e.json",
+    "/workspace/lively/data/raw/coughvid/public_dataset/001328dc-ea5d-4847-9ccf-c5aa2a3f2d0f.json",
+    "/workspace/lively/data/raw/coughvid/public_dataset/001c85a8-cc4d-4921-9297-848be52d4715.json",
+    "/workspace/lively/data/raw/coughvid/public_dataset/001d8e33-a4af-4edb-98ba-b03f891d9a6c.json",
+    "/workspace/lively/data/raw/coughvid/public_dataset/001e2f19-d81c-4029-b33c-d2db56b23a4a.json",
+    "/workspace/lively/data/raw/coughvid/public_dataset/00273cdf-ed90-4105-84ec-0c88d52f1dc0.json",
+    "/workspace/lively/data/raw/coughvid/public_dataset/0028b68c-aca4-4f4f-bb1d-cb4ed5bbd952.json",
+    "/workspace/lively/data/raw/coughvid/public_dataset/00291cce-36a0-4a29-9e2d-c1d96ca17242.json",
+    "/workspace/lively/data/raw/coughvid/public_dataset/0029d048-898a-4c70-89c7-0815cdcf7391.json",
+    "/workspace/lively/data/raw/coughvid/public_dataset/002d28bc-7806-4dfb-9c9b-afa8cb623cac.json",
+    "/workspace/lively/data/raw/coughvid/public_dataset/002db0bd-e57f-4c30-ade0-16640d424eb7.json",
+    "/workspace/lively/data/raw/coughvid/public_dataset/0033d1d5-ae8c-42f6-a557-822d6ab691cf.json",
+    "/workspace/lively/data/raw/coughvid/public_dataset/00343395-c86c-47e3-a10f-fa3036f4572f.json",
+    "/workspace/lively/data/raw/coughvid/public_dataset/00357712-dd5a-4c0a-90a4-39f1f4b9d5fd.json",
+    "/workspace/lively/data/raw/coughvid/public_dataset/00367af5-03f2-4fa5-b793-6329c943deda.json",
+    "/workspace/lively/data/raw/coughvid/public_dataset/0037f67c-0d6f-42e6-ab94-66499d4d2bf4.json"
+  ],
+  "selected_metadata_file": "/workspace/lively/data/raw/coughvid/public_dataset/metadata_compiled.csv",
+  "audio_probe": [
+    {
+      "file": "/workspace/lively/data/raw/coughvid/public_dataset/005887c9-4bb1-4f13-86b2-1c7b3cee0881.ogg",
+      "sample_rate": 48000,
+      "duration_sec": 5.371,
+      "channels": 2,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coughvid/public_dataset/0080c4be-010c-4037-bba2-743437db3beb.ogg",
+      "sample_rate": 48000,
+      "duration_sec": 10.01,
+      "channels": 1,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coughvid/public_dataset/009e677f-e0ed-4765-9f9e-db3fff3921a3.ogg",
+      "sample_rate": 48000,
+      "duration_sec": 9.739,
+      "channels": 1,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coughvid/public_dataset/009e762a-b4f7-41a6-a419-b4ca51be88ec.ogg",
+      "sample_rate": 48000,
+      "duration_sec": 10.013,
+      "channels": 2,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coughvid/public_dataset/00a0156b-7179-4773-8a2c-4bb919e076bd.ogg",
+      "sample_rate": 48000,
+      "duration_sec": 4.427,
+      "channels": 2,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coughvid/public_dataset/00a31212-7c64-4649-b78b-4c7d9ce3156e.ogg",
+      "sample_rate": 48000,
+      "duration_sec": 9.885,
+      "channels": 1,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coughvid/public_dataset/00be6c44-dbc4-4701-b4c5-6b5c6bbf212e.ogg",
+      "sample_rate": 48000,
+      "duration_sec": 10.027,
+      "channels": 1,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coughvid/public_dataset/00f4a67a-bdce-484d-b38c-e73c84799074.ogg",
+      "sample_rate": 48000,
+      "duration_sec": 10.005,
+      "channels": 2,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coughvid/public_dataset/01155ee0-0981-4592-b4af-ffabe71a8232.ogg",
+      "sample_rate": 48000,
+      "duration_sec": 5.434,
+      "channels": 1,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coughvid/public_dataset/027781e8-4106-4a88-a3f4-f555d957752e.ogg",
+      "sample_rate": 48000,
+      "duration_sec": 9.384,
+      "channels": 2,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coughvid/public_dataset/02877709-f7ea-4789-9526-1e1f47cafb3f.ogg",
+      "sample_rate": 48000,
+      "duration_sec": 9.993,
+      "channels": 2,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coughvid/public_dataset/0288d081-951c-45f1-9fa6-9ce81a222716.ogg",
+      "sample_rate": 48000,
+      "duration_sec": 2.816,
+      "channels": 2,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coughvid/public_dataset/028f409d-595f-4ac7-8220-d40c8ea8f02f.ogg",
+      "sample_rate": 48000,
+      "duration_sec": 9.974,
+      "channels": 1,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coughvid/public_dataset/029685b5-d06b-44ea-9ad9-6f6134438c67.ogg",
+      "sample_rate": 48000,
+      "duration_sec": 9.973,
+      "channels": 1,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coughvid/public_dataset/02986b04-14ae-4331-a783-9245f4cc7786.ogg",
+      "sample_rate": 48000,
+      "duration_sec": 9.981,
+      "channels": 1,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coughvid/public_dataset/02def005-fb2b-46aa-97ce-66262fb6f93d.ogg",
+      "sample_rate": 48000,
+      "duration_sec": 7.939,
+      "channels": 1,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coughvid/public_dataset/0353cddc-29b3-48e2-bb6b-2293b9fabf96.ogg",
+      "sample_rate": 48000,
+      "duration_sec": 9.873,
+      "channels": 1,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coughvid/public_dataset/0381caa3-fe32-4b67-9870-e254c9518e44.ogg",
+      "sample_rate": 48000,
+      "duration_sec": 6.819,
+      "channels": 1,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coughvid/public_dataset/038593b5-6baa-4b8f-84fa-96ddda9736b0.ogg",
+      "sample_rate": 48000,
+      "duration_sec": 2.859,
+      "channels": 1,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coughvid/public_dataset/03d858ee-ed0d-4c4a-8bae-7a6b9e66311a.ogg",
+      "sample_rate": 48000,
+      "duration_sec": 4.245,
+      "channels": 2,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coughvid/public_dataset/03f9552c-97e5-4178-b809-c9b09dcff9de.ogg",
+      "sample_rate": 48000,
+      "duration_sec": 10.008,
+      "channels": 2,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coughvid/public_dataset/042d1e63-ae29-4a23-b290-82a148b089a7.ogg",
+      "sample_rate": 48000,
+      "duration_sec": 3.472,
+      "channels": 2,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coughvid/public_dataset/043e6bf3-8924-4d51-9109-0074d5afa9e1.ogg",
+      "sample_rate": 48000,
+      "duration_sec": 9.913,
+      "channels": 1,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coughvid/public_dataset/0443dad7-0cf7-4232-a997-f227478866a9.ogg",
+      "sample_rate": 48000,
+      "duration_sec": 4.011,
+      "channels": 2,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coughvid/public_dataset/045364d1-30c3-4784-a51f-48f791b913a1.ogg",
+      "sample_rate": 48000,
+      "duration_sec": 9.955,
+      "channels": 1,
+      "recording_type": "unknown"
+    }
+  ],
+  "selected_metadata_columns": [
+    "uuid",
+    "datetime",
+    "cough_detected",
+    "SNR",
+    "latitude",
+    "longitude",
+    "age",
+    "gender",
+    "respiratory_condition",
+    "fever_muscle_pain",
+    "status",
+    "quality_1",
+    "cough_type_1",
+    "dyspnea_1",
+    "wheezing_1",
+    "stridor_1",
+    "choking_1",
+    "congestion_1",
+    "nothing_1",
+    "diagnosis_1",
+    "severity_1",
+    "quality_2",
+    "cough_type_2",
+    "dyspnea_2",
+    "wheezing_2",
+    "stridor_2",
+    "choking_2",
+    "congestion_2",
+    "nothing_2",
+    "diagnosis_2",
+    "severity_2",
+    "quality_3",
+    "cough_type_3",
+    "dyspnea_3",
+    "wheezing_3",
+    "stridor_3",
+    "choking_3",
+    "congestion_3",
+    "nothing_3",
+    "diagnosis_3",
+    "severity_3",
+    "quality_4",
+    "cough_type_4",
+    "dyspnea_4",
+    "wheezing_4",
+    "stridor_4",
+    "choking_4",
+    "congestion_4",
+    "nothing_4",
+    "diagnosis_4",
+    "severity_4"
+  ],
+  "selected_metadata_rows": 27550
+}

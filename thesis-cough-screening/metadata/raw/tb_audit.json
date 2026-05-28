@@ -1,0 +1,10 @@
+{
+  "dataset_name": "tb",
+  "dataset_dir": "/workspace/lively/data/raw/tb",
+  "audio_file_count": 0,
+  "metadata_candidate_count": 0,
+  "metadata_candidates": [],
+  "selected_metadata_file": null,
+  "audio_probe": [],
+  "selected_metadata_columns": []
+}

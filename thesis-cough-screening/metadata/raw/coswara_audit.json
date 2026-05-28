@@ -1,0 +1,208 @@
+{
+  "dataset_name": "coswara",
+  "dataset_dir": "/workspace/lively/data/raw/coswara",
+  "audio_file_count": 24716,
+  "metadata_candidate_count": 2824,
+  "metadata_candidates": [
+    "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/0Rlzhiz6bybk77wdLjxwy7yLDhg1/metadata.json",
+    "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/0zexHIcM7tQDdnFiEj2Eb0v3g212/metadata.json",
+    "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/1AuoEhB8vAfCtxTFFV0W916yBqA3/metadata.json",
+    "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/1ctsxp37dWNbCbizTioZzpAWqJx2/metadata.json",
+    "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/2TkAK2YVkYS7Ux3hAPBUgYgg9DI3/metadata.json",
+    "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/2XgDqzQkqLX9SbmSHfbqdRxSmRD2/metadata.json",
+    "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/3VWhvtBFHKMgEKxlXzMYeg5NeBN2/metadata.json",
+    "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/5ZDF98UQUxcVuS9VhaWxKlVnXvs1/metadata.json",
+    "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/5le68NJRZWV6TrMTYn3j7gSlqTi2/metadata.json",
+    "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/60Ig4PmU9NMqKGDMR8Um0Tc2KXB3/metadata.json",
+    "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/6MmSmB1lmmOiyKNNA0p7IuVe3CA3/metadata.json",
+    "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/9D1go0wkvuPkFebFk4uQQpcBuZw1/metadata.json",
+    "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/9XJ2QSvS9CaIo5hSyRZcdst0K8P2/metadata.json",
+    "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/9XKj7fAmvwPUas9GFPZuTpev7T03/metadata.json",
+    "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/9ypQNsTsSQYlx72wxTLrHzzNoAJ2/metadata.json",
+    "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/AI4aa1tjlXQw4iOH4RuTvgMtK3G3/metadata.json",
+    "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/CAf8ILsDpQMeTPPLwi7nFlgRT2t1/metadata.json",
+    "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/CrlV0ddIqdbtxNnkIhtPS5dvoX42/metadata.json",
+    "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/Eoyf44CUffgVCPPjJJkopEyAO7k2/metadata.json",
+    "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/EqDWckxbsETyHUeBLQ8jLtxlhir2/metadata.json"
+  ],
+  "selected_metadata_file": "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/0Rlzhiz6bybk77wdLjxwy7yLDhg1/metadata.json",
+  "audio_probe": [
+    {
+      "file": "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/0Rlzhiz6bybk77wdLjxwy7yLDhg1/breathing-deep.wav",
+      "sample_rate": 48000,
+      "duration_sec": 25.003,
+      "channels": 1,
+      "recording_type": "breath"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/0Rlzhiz6bybk77wdLjxwy7yLDhg1/breathing-shallow.wav",
+      "sample_rate": 48000,
+      "duration_sec": 14.592,
+      "channels": 1,
+      "recording_type": "breath"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/0Rlzhiz6bybk77wdLjxwy7yLDhg1/cough-heavy.wav",
+      "sample_rate": 48000,
+      "duration_sec": 5.205,
+      "channels": 1,
+      "recording_type": "cough"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/0Rlzhiz6bybk77wdLjxwy7yLDhg1/cough-shallow.wav",
+      "sample_rate": 48000,
+      "duration_sec": 4.864,
+      "channels": 1,
+      "recording_type": "cough"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/0Rlzhiz6bybk77wdLjxwy7yLDhg1/counting-fast.wav",
+      "sample_rate": 48000,
+      "duration_sec": 5.888,
+      "channels": 1,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/0Rlzhiz6bybk77wdLjxwy7yLDhg1/counting-normal.wav",
+      "sample_rate": 48000,
+      "duration_sec": 12.288,
+      "channels": 1,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/0Rlzhiz6bybk77wdLjxwy7yLDhg1/vowel-a.wav",
+      "sample_rate": 48000,
+      "duration_sec": 3.669,
+      "channels": 1,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/0Rlzhiz6bybk77wdLjxwy7yLDhg1/vowel-e.wav",
+      "sample_rate": 48000,
+      "duration_sec": 16.725,
+      "channels": 1,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/0Rlzhiz6bybk77wdLjxwy7yLDhg1/vowel-o.wav",
+      "sample_rate": 48000,
+      "duration_sec": 17.835,
+      "channels": 1,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/0zexHIcM7tQDdnFiEj2Eb0v3g212/breathing-deep.wav",
+      "sample_rate": 48000,
+      "duration_sec": 26.027,
+      "channels": 1,
+      "recording_type": "breath"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/0zexHIcM7tQDdnFiEj2Eb0v3g212/breathing-shallow.wav",
+      "sample_rate": 48000,
+      "duration_sec": 6.315,
+      "channels": 1,
+      "recording_type": "breath"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/0zexHIcM7tQDdnFiEj2Eb0v3g212/cough-heavy.wav",
+      "sample_rate": 48000,
+      "duration_sec": 6.144,
+      "channels": 1,
+      "recording_type": "cough"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/0zexHIcM7tQDdnFiEj2Eb0v3g212/cough-shallow.wav",
+      "sample_rate": 48000,
+      "duration_sec": 5.803,
+      "channels": 1,
+      "recording_type": "cough"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/0zexHIcM7tQDdnFiEj2Eb0v3g212/counting-fast.wav",
+      "sample_rate": 48000,
+      "duration_sec": 8.96,
+      "channels": 1,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/0zexHIcM7tQDdnFiEj2Eb0v3g212/counting-normal.wav",
+      "sample_rate": 48000,
+      "duration_sec": 13.568,
+      "channels": 1,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/0zexHIcM7tQDdnFiEj2Eb0v3g212/vowel-a.wav",
+      "sample_rate": 48000,
+      "duration_sec": 10.411,
+      "channels": 1,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/0zexHIcM7tQDdnFiEj2Eb0v3g212/vowel-e.wav",
+      "sample_rate": 48000,
+      "duration_sec": 9.813,
+      "channels": 1,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/0zexHIcM7tQDdnFiEj2Eb0v3g212/vowel-o.wav",
+      "sample_rate": 48000,
+      "duration_sec": 9.387,
+      "channels": 1,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/1AuoEhB8vAfCtxTFFV0W916yBqA3/breathing-deep.wav",
+      "sample_rate": 48000,
+      "duration_sec": 20.907,
+      "channels": 1,
+      "recording_type": "breath"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/1AuoEhB8vAfCtxTFFV0W916yBqA3/breathing-shallow.wav",
+      "sample_rate": 48000,
+      "duration_sec": 5.973,
+      "channels": 1,
+      "recording_type": "breath"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/1AuoEhB8vAfCtxTFFV0W916yBqA3/cough-heavy.wav",
+      "sample_rate": 48000,
+      "duration_sec": 2.731,
+      "channels": 1,
+      "recording_type": "cough"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/1AuoEhB8vAfCtxTFFV0W916yBqA3/cough-shallow.wav",
+      "sample_rate": 48000,
+      "duration_sec": 2.901,
+      "channels": 1,
+      "recording_type": "cough"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/1AuoEhB8vAfCtxTFFV0W916yBqA3/counting-fast.wav",
+      "sample_rate": 48000,
+      "duration_sec": 7.509,
+      "channels": 1,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/1AuoEhB8vAfCtxTFFV0W916yBqA3/counting-normal.wav",
+      "sample_rate": 48000,
+      "duration_sec": 8.875,
+      "channels": 1,
+      "recording_type": "unknown"
+    },
+    {
+      "file": "/workspace/lively/data/raw/coswara/iiscleap-Coswara-Data-bf300ae/20200413/20200413/1AuoEhB8vAfCtxTFFV0W916yBqA3/vowel-a.wav",
+      "sample_rate": 48000,
+      "duration_sec": 3.072,
+      "channels": 1,
+      "recording_type": "unknown"
+    }
+  ],
+  "selected_metadata_columns": [],
+  "selected_metadata_error": "If using all scalar values, you must pass an index"
+}

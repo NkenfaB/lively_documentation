@@ -1,0 +1,58 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+
+data/external/*
+data/interim/*
+data/processed/*
+!data/external/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+
+models/checkpoints/*
+models/exported/*
+!models/checkpoints/.gitkeep
+!models/exported/.gitkeep
+
+reports/figures/*
+reports/tables/*
+reports/logs/*
+!reports/figures/.gitkeep
+!reports/tables/.gitkeep
+!reports/logs/.gitkeep
+# Track curated documentation tables (markdown), not raw experiment dumps
+!reports/tables/*.md
+
+# Virtual env
+.venv/
+
+# Raw datasets
+data/raw/coswara/
+data/raw/coughvid/
+
+# Processed arrays / large artifacts
+data/processed/features/
+*.npy
+
+# Logs
+*.log
+download_log.txt
+preprocessing_log.txt
+training_log.txt
+
+# Backups
+backups/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large model artifacts
+models/checkpoints/*.keras
+models/exported/*.tflite
+*.backup
